@@ -1,0 +1,19 @@
+#upLeft {
+    float: right;
+    
+    }
+    #downLeft {
+    float: right;
+    }
+    #upRight {
+    
+    float: right;
+    }
+    
+    #downRight {
+    
+    float: right;
+    }
+    .clear {
+    clear: both;
+    }
